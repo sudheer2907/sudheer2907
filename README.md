@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Sudheer Kumar Singh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sudheer Singh
+- 👀 I’m interested in doing Automation and providing end to end testing solution.
+- 🌱 I’m currently learning and exploring cypress
+- 📫 I can be reached on sudheer2907@gmail.com, also available on whats app 9891535139
 
-<!---
-sudheer2907/sudheer2907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- My skills set:
+* Programming Language - Java, Javascript, Python
+* Automation tools used - Selenium
+* Framework Used - Cucumber, BDD, TDD, Cypress, Karate, QMEetry, Hybrid
